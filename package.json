@@ -1,0 +1,26 @@
+{
+  "name": "react-native-qrcode-genetor",
+  "version": "1.0.3",
+  "description": "react-native-qrcode with latest webview from react-native-webview otherthan Webview from react-native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "react-native-qrcode",
+    "react-native-qrcode-generator",
+    "webview"
+  ],
+  "author": "Imdad Hussain",
+  "license": "ISC",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.58.0"
+  },
+  "dependencies": {
+    "add": "^2.0.6",
+    "react-native-qrcode-genetor": "^1.0.2",
+    "qr.js": "0.0.0",
+    "yarn": "^1.21.1"
+  }
+}
