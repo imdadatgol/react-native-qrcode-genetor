@@ -1,6 +1,8 @@
 
 # react-native-qrcode-genetor
 A react-native component to generate [QRcode](http://en.wikipedia.org/wiki/QR_code), note only support English.
+
+
 Based on react-native-qrcode, for react-native version > 0.59 react-native-qrcode was using webview from 'react-native'. I removed webview from 'react-native' and added webview from 'react-native-webview'.
 ## Installation
 by using yarn
