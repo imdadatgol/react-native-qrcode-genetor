@@ -85,4 +85,4 @@ prop      | type                 | default value
 
 # Licenses
 
-<!-- All source code is licensed under the [MIT License] -->
+All source code is licensed under the [MIT License] 
