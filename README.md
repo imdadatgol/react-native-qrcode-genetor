@@ -85,4 +85,4 @@ prop      | type                 | default value
 
 # Licenses
 
-<!-- All source code is licensed under the [MIT License](https://github.com/cssivision/react-native-qrcode/blob/master/LICENSE). -->
+<!-- All source code is licensed under the [MIT License] -->
