@@ -74,14 +74,14 @@ module.exports = HelloWorld;
 ```
 ## Available Props
 
-prop      | type                 | default value
-----------|----------------------|--------------
-`value`   | `string`             | `http://facebook.github.io/react-native/`
-`size`    | `number`             | `128`
-`bgColor` | `string` (CSS color) | `"#000"`
-`fgColor` | `string` (CSS color) | `"#FFF"`
-
-<img src='qrcode.png' height = '256' width = '256'/>
+prop          | type                 | default value
+----------    |----------------------|--------------
+`value`       | `string`             | `http://facebook.github.io/react-native/`
+`size`        | `number`             | `128`
+`bgColor`     | `string` (CSS color) | `"#000"`
+`fgColor`     | `string` (CSS color) | `"#FFF"`
+`Canvas_size` | `number`             | `1000`
+![picture](qrcode.png)
 
 # Licenses
 

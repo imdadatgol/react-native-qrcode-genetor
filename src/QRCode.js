@@ -90,12 +90,13 @@ var QRCode = createReactClass({
 
     render: function() {
         var size = this.props.size;
+        var Canvas_size = this.props.Canvas_size;
         var value = this.utf16to8(this.props.value);
         return (
             <View>
                 <Canvas
                     context={{
-                        size: size,
+                        size: Canvas_size ? Canvas_size : 1000,
                         value: this.props.value,
                         bgColor: this.props.bgColor,
                         fgColor: this.props.fgColor,
