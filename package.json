@@ -20,6 +20,7 @@
 
   "dependencies": {
     "add": "^2.0.6",
+    "create-react-class": "^15.7.0",
     "react-native-qrcode-genetor": "^1.0.2",
     "qr.js": "0.0.0",
     "yarn": "^1.21.1"
