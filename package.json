@@ -1,6 +1,6 @@
 {
   "name": "react-native-qrcode-genetor",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "react-native-qrcode with latest webview from react-native-webview otherthan Webview from react-native",
   "main": "index.js",
   "scripts": {
